@@ -1,0 +1,19 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-light{
+    background-color: #f5f5f5;
+}
+
+.p-1{
+    padding: 1rem;
+}
+
+.mb-2{
+    margin-bottom: 0.5rem;
+}
+
+.color-red{
+    color: red;
+}
